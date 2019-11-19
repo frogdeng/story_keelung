@@ -1,0 +1,134 @@
+@import "bourbon";
+@import "susy";
+@import _map.scss
+
+
+// shorthand
+$desktop: 12 (55px 30px) split
+$pad: 6 (60px 30px) split
+
+$w_desktop: 12 split
+$w_pad: 6 split
+
+$breakpoint_desktop: 891px
+$breakpoint_pad: 0 890px
+
+$susy: (debug: (image: hide))
+
+
+
+.content_block
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		padding: 40px
+		.t-title
+			margin-bottom: 30px
+			// height: 100px
+			// background: #178
+			h1
+				text-align: left
+				font-size: 50px
+				margin-bottom: 20px
+
+			h2
+				text-align: left
+				font-size: 20px
+				font-weight: 400
+		.description
+			margin-bottom: 50px
+			p
+				font-size: 16px
+				margin-bottom: 20px
+				color: #777
+
+
+.video_section
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		margin-bottom: 40px
+		.title_num
+			display: flex
+			flex-direction: row
+			justify-content: flex-start
+			align-items: center
+			font-size: 21px
+			margin-bottom: 15px
+			img
+				width: 30px
+				margin-right: 10px
+		.title_naming
+			display: flex
+			flex-direction: row
+			justify-content: flex-start
+			align-items: center
+			font-size: 21px
+			margin-bottom: 15px
+			span
+				font-weight: 900
+			img
+				width: 20px
+				margin-right: 10px
+
+		.video_play_include
+			width: 100%
+			// background: #189
+			video
+				width: 100%
+
+.vidoe_os
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		margin-bottom: 100px
+		.os_title
+			margin-bottom: 20px
+			font-size: 25px
+			font-weight: 900
+			border-bottom: 1px solid #eee
+			padding: 5px 0
+		p
+			font-size: 16px
+			line-height: 1.6
+			margin-bottom: 10px
+			margin-left: 45px
+			text-indent: -45px
+
+
+// .t-tile
+// 	+susy-breakpoint($breakpoint_pad, $pad)
+// 		+container
+// 		font-size: 20px
+// 		font-weight: 900
+// 		margin-top: 130px
+// 		margin-bottom: 20px
+// 		text-align: center
+// 		display: flex
+// 		flex-direction: row
+// 		justify-content: center
+// 		align-items: center
+
+// 	+susy-breakpoint($breakpoint_desktop, $desktop)
+// 		+container
+// 		font-size: 21px
+// 		font-weight: 900
+// 		margin-top: 130px
+// 		margin-bottom: 20px
+// 		text-align: center
+// 		display: flex
+// 		flex-direction: row
+// 		justify-content: center
+// 		align-items: center
+// 		font-size: 30px
+
+

@@ -1,0 +1,11 @@
+vendor/
+wiki/
+report/
+sandbox/
+node_modules/
+
+
+public/images/story2.mp4
+public/images/story3_01.mp4
+public/images/story3_02.mp4
+public/images/story3_03.mp4

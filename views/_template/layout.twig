@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="https://www.facebook.com/2008/fbml" lang="zh-TW"> <!--<![endif]-->
+
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-itunes-app" content="app-id=300915900, app-argument=https://www.kkbox.com/tw/tc/index.html">
+<link rel="shortcut icon" href="/favicon.ico" />
+
+
+<meta name="keywords" content="Lee Seung Gi, Bae Suzy, Suzy, Vagabond Voyage, Vagabond, Korean drama, Korea, K-pop, Korean, music, drama, KKBOX, pop, music streaming, music download, free music, mp3 download, app, promo, contest, Google, Apple, Spotify, Deezer, Apple Music, Tidal, TPG, Singtel, Singtel Music, Starhub, M1, Circles Life, 免费音乐，下载，音乐下载，mp3下载，有奖竞赛，有奖游戏，演唱会，粉丝见面会，新加坡">
+<meta name="description" content="Get up-close and personal with Lee Seung Gi for one-night-only event in Singapore! Stand a chance to score tickets to the fan meeting with just simple actions!">
+<title>KKBOX SPECIAL! Win tickets to 2019 LEE SEUNG GI ASIA FAN MEETING <VAGABOND VOYAGE> - KKBOX</title>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Win tickets to 2019 LEE SEUNG GI ASIA FAN MEETING <VAGABOND VOYAGE>"/>
+<meta property="og:url" content="https://event.kkbox.com/leeseunggi.sg/"/>
+<meta property="og:description" content="Get up-close and personal with Lee Seung Gi for one-night-only event in Singapore! Stand a chance to score tickets to the fan meeting with just simple actions!" />
+<meta property="og:image" content="https://event.kkbox.com/leeseunggi.sg/img/og.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<!--#include virtual="/event_templates/fb_appid_meta.html" -->
+
+<link href="//event.kkbox.com/frontend_lib/bootstrap-grid/bootstrap-grid.css" rel="stylesheet" />
+<link href="//event.kkbox.com/css/event-component.css" rel="stylesheet" media="screen">
+
+<!-- 套件 CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css" rel="stylesheet" media="screen">
+
+<!-- 所有自訂的 CSS -->
+<link href="css/module.css" rel="stylesheet" />
+
+</head>
+
+
+<body>
+
+<!--#include virtual="/event_templates/sg/en/header.html" -->
+
+
+{% block page %}{% endblock %}
+<!--#include virtual="/event_templates/sg/en/footer.html" -->
+<!--#include virtual="/event_templates/sg/en/footer_js.html" -->
+
+
+<script>
+    $(function() {
+        // GTM Tracking
+        $('body').on('click', '[data-action]', gtmTracking);
+
+        $(".plus").click(function(){
+	        $(".toggle_div").toggleClass("show");
+	    });
+    });
+</script>
+
+
+
+</body>
+</html>
