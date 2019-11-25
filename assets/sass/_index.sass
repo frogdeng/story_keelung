@@ -105,6 +105,98 @@ $susy: (debug: (image: hide))
 			text-indent: -45px
 
 
+
+.map_block
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		padding: 20px !important
+		h1
+			font-size: 50px
+			margin: 30px 0
+			text-align: center
+
+
+
+.map_section
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		.this_map
+			width: 100%
+			position: relative
+			margin-bottom: 20px
+
+			.location_position
+				position: absolute
+				display: flex
+				flex-direction: column
+				justify-content: flex-start
+				align-items: center
+				width: 250px
+				// background: #c0c0c0
+				transition: all .3s
+				&:hover
+					transform: scale(1.06)
+				.location
+					display: block
+					font-size: 35px
+					color: #D70D0D
+
+					cursor: pointer
+					// filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.5))
+
+
+				.location_detail
+					width: 250px
+					// height: 200px
+					background: #FFF
+					font-size: 12px
+					padding: 10px
+					display: none
+					.detail_row
+						display: flex
+						flex-direction: row
+						justify-content: flex-start
+						align-items: flex-start
+						border-bottom: 1px solid #eee
+						padding: 7px 0
+						h6
+							font-size: 14px
+							margin-bottom: 3px
+						p
+							font-size: 12px
+							line-height: 1.2
+						img
+							width: 100px
+							margin-right: 6px
+			img
+				width: 100%
+
+
+
+
+.show
+	display: block !important
+
+
+.tag_1
+	top: 150px
+	left: 245px
+
+.tag_2
+	top: 350px
+	left: 445px
+
+
+
+
 // .t-tile
 // 	+susy-breakpoint($breakpoint_pad, $pad)
 // 		+container

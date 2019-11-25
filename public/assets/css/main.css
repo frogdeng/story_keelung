@@ -3484,6 +3484,10 @@ figcaption {
   visibility: visible;
 }
 
+
+
+
+
 body.is-preload #intro {
   -webkit-transform: translateY(2rem);
   transform: translateY(2rem);
@@ -3535,6 +3539,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 /* Header */
 #header {
+  /*background: #298;*/
   color: #ffffff;
   -moz-align-items: center;
   -ms-align-items: center;
@@ -3542,11 +3547,11 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
   display: -moz-flex;
   display: -ms-flex;
   display: flex;
-  -moz-flex-direction: column;
-  flex-direction: column;
-  -moz-justify-content: -moz-flex-end;
-  -ms-justify-content: -ms-flex-end;
-  justify-content: flex-end;
+  -moz-flex-direction: row;
+  flex-direction: row;
+  -moz-justify-content: -moz-center;
+  -ms-justify-content: -ms-center;
+  justify-content: center;
   pointer-events: none;
   -moz-user-select: none;
   -webkit-user-select: none;
@@ -3611,13 +3616,14 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
   border-color: #444;
   border-width: 5px !important;
   font-family: "Noto Sans TC", Helvetica, sans-serif;
-  font-size: 2.25rem;
+  font-size: 35px;
   font-weight: 900;
   letter-spacing: 0.075em;
   line-height: 1;
   padding: 1rem 1.75rem;
   text-transform: uppercase;
   visibility: visible;
+  margin: 0 10px;
 }
 
 #header .logo:hover {
@@ -3635,9 +3641,12 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 @media screen and (max-width: 736px) {
   #header {
     padding-bottom: 3rem;
+    flex-direction: column;
   }
 
   #header .logo {
+    width: 70%;
+    margin-bottom: 20px;
     font-size: 1.75rem;
     border-width: 3px !important;
   }
@@ -4889,7 +4898,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 .circle_a{
   top: 28%;
   left: 68%;
-  
+
 }
 
 .circle_b{
