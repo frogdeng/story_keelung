@@ -5,7 +5,6 @@ $(document).ready(function(){
 
 
 	 	// $('.location_detail').removeClass('show')
-
 	 	$(this).parent().find('.location_detail').toggleClass('show')
 
 	  });
