@@ -16,6 +16,32 @@ $breakpoint_pad: 0 890px
 $susy: (debug: (image: hide))
 
 
+.goback
+	+susy-breakpoint($breakpoint_pad, $pad)
+		+container
+
+
+	+susy-breakpoint($breakpoint_desktop, $desktop)
+		+container
+		display: block
+		// background: #eee
+		width: 100%
+		height: 50px
+		padding: 5px 0
+		margin-bottom: 20px
+		display: flex
+		flex-direction: row
+		justify-content: flex-start
+		align-items: center
+		color: #000
+		text-decoration: none
+		i
+			font-size: 30px
+			margin-right: 10px
+
+		&:hover
+			text-decoration: none
+			color: #444 !important
 
 .content_block
 	+susy-breakpoint($breakpoint_pad, $pad)
@@ -31,7 +57,7 @@ $susy: (debug: (image: hide))
 			// background: #178
 			h1
 				text-align: left
-				font-size: 50px
+				font-size: 45px
 				margin-bottom: 20px
 
 			h2
@@ -53,16 +79,18 @@ $susy: (debug: (image: hide))
 
 	+susy-breakpoint($breakpoint_desktop, $desktop)
 		+container
-		margin-bottom: 40px
+		margin-bottom: 20px
+		h5
+			font-size: 20px
 		.title_num
 			display: flex
 			flex-direction: row
 			justify-content: flex-start
 			align-items: center
 			font-size: 21px
-			margin-bottom: 15px
+			margin-bottom: 5px
 			img
-				width: 30px
+				width: 20px
 				margin-right: 10px
 		.title_naming
 			display: flex
@@ -70,12 +98,16 @@ $susy: (debug: (image: hide))
 			justify-content: flex-start
 			align-items: center
 			font-size: 21px
-			margin-bottom: 15px
+			margin-bottom: 5px
 			span
 				font-weight: 900
 			img
-				width: 20px
+				width: 15px
 				margin-right: 10px
+		.location_num
+			font-size: 16px
+			color: #888
+			margin-bottom: 10px
 
 		.video_play_include
 			width: 100%
@@ -93,17 +125,20 @@ $susy: (debug: (image: hide))
 		margin-bottom: 100px
 		.os_title
 			margin-bottom: 20px
-			font-size: 25px
+			font-size: 30px
 			font-weight: 900
-			border-bottom: 1px solid #eee
+			border-bottom: 2px solid #222
 			padding: 5px 0
 		p
 			font-size: 16px
-			line-height: 1.6
+			line-height: 1.4
 			margin-bottom: 10px
-			margin-left: 45px
-			text-indent: -45px
-
+			margin-left: 68px
+			text-indent: -68px
+			span
+				font-weight: 900
+				color: #000
+				margin-right: 20px
 
 
 .map_block

@@ -14,7 +14,8 @@
 	<link rel="stylesheet" href="assets/css/swiper.min.css" />
 	<link rel="stylesheet" href="assets/css/magnific-popup.css" />
 
-	<link rel="stylesheet" href="/css/module.css" />
+	<link rel="stylesheet" href="css/all.css" />
+	<link rel="stylesheet" href="css/module.css" />
 
 <!-- 	<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet" />
 	<script src="http://vjs.zencdn.net/c/video.js"></script>
@@ -35,6 +36,63 @@
 	<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 
 
+	<script>
+		$(document).ready(function(){
+			$.getJSON("_data/_mapdata.json", function(data){
+
+				 var strUrl = location.search;
+		 		 if (strUrl.indexOf("?") != -1) {
+
+				    var getSearch = strUrl.split("=");
+				    var thispage = getSearch[1]
+				    console.log(thispage)
+				    // link = 'data.' + thispage + '[0].photo_1'
+				   	// console.log(typeof(link))
+				}
+
+
+				var _data = data
+				console.log(_data)
+
+				let _main_title = _data[thispage][0].main_title
+				let _sub_title = _data[thispage][0].sub_title
+
+				let _description = _data[thispage][0].description
+
+				let _video_num = _data[thispage][0].video_num
+				let _video_title = _data[thispage][0].video_title
+				let _location_num = _data[thispage][0].location_num
+
+				let _video_link = _data[thispage][0].video_link
+
+				let _os_tw = _data[thispage][0].os_tw
+
+
+
+
+				$('.t-title > h1').html(_main_title);
+				$('.t-title > h2').html(_sub_title);
+				$('.description').html(_description);
+
+				$('.title_num > h5').html(_video_num);
+				$('.title_naming > h5').html(_video_title);
+				$('.location_num').html(_location_num);
+
+				$('.os').html(_os_tw);
+
+
+				var video_1 = document.createElement("source");
+			     video_1.setAttribute("src", _video_link);
+			     $('.video_play_include > video').html(video_1);
+
+
+
+		  });
+
+
+		});
+
+		</script>
 
 
 
@@ -48,63 +106,51 @@
 			<br>
 			<br>
 
+
+			<a href="stepping_map.html" class="goback"><i class="fas fa-arrow-circle-left"></i> 回上頁</a>
+
+
+
+
+
 		<!-- Main -->
 		<div id="main">
 			<!-- Post -->
 			<section class="content_block">
 
 				<header class="t-title">
-					<h1>昇平戲院</h1>
-					<h2>山中的奢華小上海</h2>
+					<h1></h1>
+					<h2></h2>
 				</header>
 
 
-				<div class="description">
-					<p>金礦為金瓜石、九份兩地帶來大量人口，來自全台各地、日本、中國的礦工、搬運工、技師等各式技術人員，組成了兩地多元的人口樣貌。當地人經常這樣說：「金瓜石是雜會ㄚ人聚集ㄟ所在。」酒樓、商店、賭場、各式各業的消費場所也隨著工作人口的到來，雨後春筍般在兩地興起。在黃金最興盛的日治時期，九份曾經因為繁華的景象，得到「小上海」的稱號，當時全台灣最好的酒及菜餚，都集中在這裡；當台北市區還在使用油燈時，金瓜石地區的居民已經可以享受到電燈的便利。「上品送九份，次品送台北」這句話也印證了當時九份金瓜石地區的消費水準確實相當的高。1934年，當地仕紳在九份成立了「昇平座」，「座」在日語中是表演場所的意思。</p>
-					<p>昇平座有可掀開式座椅、冷氣，在當時相當先進。戰後，改名為「昇平戲院」，播放歌仔戲、布袋戲、電影，是水金九地區的娛樂中心，甚至有瑞芳居民也會大老遠趕來這裡看戲。昇平戲院兩層樓共有六百個座位，經常爆滿，吳念真在電影《多桑》中，就有描述父親帶他去昇平戲院看戲的場景。艱辛的採礦工作，隨時可能發生意外的工作環境，也讓礦工們普遍有著「及時行樂」的生活態度。白天在坑道中弄得灰頭土臉，夜晚時就帶著大把鈔票、打扮得光鮮亮麗，到消費場所好好享樂一番。「日時全乞食，暗時攏紳士」就是當時礦工的經典寫照。八零年代，隨著礦業的沒落，人口大量外移，昇平戲院在1986年關門，九份褪卻了繁華的光芒，回歸山城的寧靜，直到觀光帶來的人潮，又有了不同的風景。</p>
-				</div>
-
-
+				<div class="description"></div>
 
 				<div class="video_section">
 
-					<div class="title_num"> <img src="img/icon-01.png" alt="">地質故事影音編號 002</div>
-					<div class="title_naming"><img src="img/icon-02.png" alt=""> 名稱: <span>昇平戲院</span></div>
+					<div class="title_num">
+						<img src="img/icon-01.png" alt="">
+						<h5></h5>
+					</div>
+
+					<div class="title_naming">
+						<img src="img/icon-02.png" alt="">
+						<h5></h5>
+					</div>
+					<div class="location_num">
+						<h5></h5>
+					</div>
 
 					<div align="center" id="shadow" class="video_play_include">
 						<video class="video-js vjs-default-skin" controls="" data-setup="{}" id="example_video" preload="auto">
-							<source src="images/story3_01.mp4" type="video/mp4">
-							</source>
 						</video>
 					</div>
-
 				</div>
-
 
 				<div class="vidoe_os">
-
-
 					<div class="os_title">影音 OS</div>
-
-
-					<p>0002	金礦為金瓜石、九份兩地帶來大量人口。來自全台各地、日本、中國的礦工、搬運工、技師等各式技術人員，組成了兩地多元的人口樣貌。</p>
-					<p>0019當地人經常這樣說：「金瓜石是雜貨仔人做伙的所在。」</p>
-					<p>0027	酒樓、商店、賭場、各式各樣的消費場所隨著工作人口的到來，如雨後春筍般在兩地興起。</p>
-					<p>0040	在最興盛的日治時期，九份曾經因為繁華的景象，得到「小上海」的稱號，當時全台灣最好的酒及菜餚，都集中在這裡；</p>
-					<p>0055	當台北市區還在使用油燈時，金瓜石地區的居民已經可以享受到電燈的便利。</p>
-					<p>0104	「上品送九份，次品送台北」這句話，也印證了當時九份、金瓜石地區的消費水準確實相當地高。</p>
-					<p>0117  	1934年，當地仕紳在九份成立了「昇平座」，「座」在日語中是表演場所的意思。</p>
-					<p>0130	昇平座有可掀開式座椅、冷氣，在當時非常先進。</p>
-					<p>0138	戰後，「昇平座」改名為「昇平戲院」，上演歌仔戲、布袋戲、電影，是水金九地區的娛樂中心，甚至有瑞芳居民會大老遠跑來這裡看戲。</p>
-					<p>0155	昇平戲院兩層樓總共有六百多個座位，經常爆滿。吳念真在電影《多桑》中，就有父親帶兒子去昇平戲院看戲的場景。</p>
-					<p>0211	艱辛的採礦工作，隨時可能發生意外的工作環境，讓礦工們普遍有著「及時行樂」的生活態度。</p>
-					<p>0223	白天在坑道中弄得灰頭土臉，夜晚時就帶著大把鈔票、打扮得光鮮亮麗，到消費場所好好享樂一番。</p>
-					<p>0236	「日時全乞食，暗時攏紳士」就是當時礦工的經典寫照。</p>
-					<p>0245	八〇年代，隨著礦業的沒落，人口大量外移，昇平戲院在1986年關門，九份褪卻了繁華的光芒，回歸山城的寧靜，直到觀		光帶來人潮，又有了不同的風景。</p>
-
-
+					<div class="os"></div>
 				</div>
-
 
 			</section>
 		</div>

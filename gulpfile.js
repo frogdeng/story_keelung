@@ -58,9 +58,7 @@ gulp.task('twig', function () {
        .pipe(data(getJsonData))
         .pipe(foreach(function(stream,file){
             return stream
-            .pipe(twig({
-                extname: '.html'
-            }));
+                .pipe(twig())
         }))
         .pipe(gulp.dest('./public/'));
 });
@@ -77,13 +75,11 @@ gulp.task('browser-sync', function() {
         "public/css/*.css",
         "public/js/*.js",
         "public/*.html",
-        "public/*.html",
         "public/img/",
     ];
     browserSync.init(includePaths,{
         server: {
-            baseDir: "./public/",
-            index: "index.html"
+            baseDir: "./public/"
         }
     });
 });
@@ -92,7 +88,7 @@ gulp.task('browser-sync', function() {
 // watch
 gulp.task('watch',function(){
     gulp.watch('./assets/sass/*.sass', ['sass']);
-    gulp.watch(['./views/*.twig','./views/_template/*.twig','./public/_data/*.json'],['twig-watch']);
+    gulp.watch(['./views/*.twig','./views/_template/*.twig','./views/_template/_partial/*.twig','./public/_data/*.json'],['twig-watch']);
     gulp.watch('./public/img/*.jpg', browserSync.reload);
     gulp.watch('./public/img/*.png', browserSync.reload);
 })
