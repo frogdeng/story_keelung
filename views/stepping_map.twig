@@ -14,8 +14,8 @@
 	<link rel="stylesheet" href="assets/css/swiper.min.css" />
 	<link rel="stylesheet" href="assets/css/magnific-popup.css" />
 
-	<link rel="stylesheet" href="/css/all.css" />
-	<link rel="stylesheet" href="/css/module.css" />
+	<link rel="stylesheet" href="css/all.css" />
+	<link rel="stylesheet" href="css/module.css" />
 
 <!-- 	<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet" />
 	<script src="http://vjs.zencdn.net/c/video.js"></script>
@@ -32,80 +32,71 @@
 	<script src="assets/js/util.js"></script>
 	<script src="js/map_ui.js"></script>
 
-
 	<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
-
-
-
+	<style>
+		#navPanelToggle{display: none}
+	</style>
 
 </head>
 
 <body class="is-preload">
-
+		
+	
 	<!-- Wrapper -->
 	<div id="wrapper">
-			<br>
-			<br>
-			<br>
+		
+		
+		{% include '_template/menu.twig' %}
 
+		<br>
+	
+			
 		<!-- Main -->
 		<div id="main">
 			<!-- Post -->
 			<section class="map_block">
 
 
-				<h1>踩踏水金九黃金礦業</h1>
-
+				<h1>踩踏水金九黃金礦業 </h1>
+				
 
 				<div class="map_section">
-
+					
 					<div class="this_map">
 
-						<div class="location_position tag_1">
-							<div class="location">
-								<i class="fas fa-map-marker-alt"></i>
-							</div>
-
-							<div class="location_detail">
-
-								<div class="detail_row">
-									<img src="img/location_photo_01.png" alt="">
-									<div class="des">
-										<h6>昇平戲院</h6>
-										<p>昇平戲院初建時為木造建築.....</p>
-									</div>
+						{% for item in position.map_tag %}
+							<div class="location_position" style="{{item.style }}">
+								<div class="location">
+									<i class="fas fa-map-marker-alt"></i>
 								</div>
 
-								<div class="detail_row">
-									<img src="img/location_photo_01.png" alt="">
-									<div class="des">
-										<h6>昇平戲院</h6>
-										<p>昇平戲院初建時為木造建築.....</p>
+								<div class="location_detail">
+									<div class="detail_row">
+										<div class="des">
+											<h6>{{item.name }}</h6>
+											<div class="gotomap">{{item.location}}</div>
+											<p>{{item.description}}</p>
+										</div>
+
+										<img src="{{item.img}}" alt="">
+									</div>
+
+									<div class="detail_row">
+										<div class="video-link">
+											<div class="">{{item.link_a}}</div>
+											<div class="">{{item.link_b}}</div>
+											<div class="">{{item.link_c}}</div>
+											<div class="">{{item.link_d}}</div>
+											<div class="">{{item.link_e}}</div>
+											<div class="">{{item.link_f}}</div>
+										</div>
 									</div>
 								</div>
-
-
-							</div>
-						</div>
-
-						<div class="location_position tag_2">
-							<div class="location">
-								<i class="fas fa-map-marker-alt"></i>
 							</div>
 
-							<div class="location_detail">
-								<p>123</p>
-								<p>123</p>
-								<p>123</p>
-							</div>
-						</div>
+						{% endfor %} 
 
-
-
-
-
-
-					<img src="img/map.jpg" alt="">
+						<div class="bg_map"><img src="img/map.jpg" alt=""></div>
 					</div>
 
 				</div>
@@ -113,10 +104,16 @@
 
 
 
-
 			</section>
 		</div>
+		
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 
+	
 		<!-- Copyright -->
 		<div id="copyright">
 			<ul>
