@@ -4,7 +4,7 @@
   		{
 		  	"id" : "01",
 		  	"name" : "大粗坑古道",
-		  	"location" : "<a href='https://goo.gl/maps/SRd2mPn8bSiUCtz19'>25.0994686,121.8479797</a>",
+		  	"location" : "<a href='https://goo.gl/maps/SRd2mPn8bSiUCtz19' target='_blank'>25.0994686,121.8479797</a>",
 		 	"description" : "大粗坑古道，主要是循著大粗坑溪的步道，以花崗岩石階為主。早期為猴硐通往九份與大粗坑的通聯道路。.....",
 		  	"img" : "img/geological_point/geological_point_1.jpg",
 
@@ -19,7 +19,7 @@
   		{
 		  	"id" : "02",
 		  	"name" : "小金瓜露頭",
-		  	"location" : "<a href='https://goo.gl/maps/BcF9pmC9jWpWoErh6'>25.0997032,121.8479478</a>",
+		  	"location" : "<a href='https://goo.gl/maps/BcF9pmC9jWpWoErh6' target='_blank'>25.0997032,121.8479478</a>",
 		 	"description" : "清光緒十六年（1890年），在當年基隆七堵橋，現為大華橋，有工人在淘洗碗盤時，在河道中發現砂金，.....",
 		  	"img" : "img/geological_point/geological_point_2.jpg",
 
@@ -35,7 +35,7 @@
   		{
 		  	"id" : "03",
 		  	"name" : "基隆市七堵區大華橋",
-		  	"location" : "<a href='https://goo.gl/maps/dCUBdScdUBCMgNiK6'>25.1008474,121.7193321</a>",
+		  	"location" : "<a href='https://goo.gl/maps/dCUBdScdUBCMgNiK6' target='_blank'>25.1008474,121.7193321</a>",
 		 	"description" : "大華橋，又稱基隆川橋、虹橋，是臺灣的一座公路橋樑，位於基隆市七堵區，跨越基隆河。.....",
 		  	"img" : "img/geological_point/geological_point_3.jpg",
 
@@ -50,7 +50,7 @@
   		{
 		  	"id" : "04",
 		  	"name" : "本山地質公園",
-		  	"location" : "<a href='https://goo.gl/maps/QEs1TmW4vG9rhAAu9'>25.100952,121.854581</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/QEs1TmW4vG9rhAAu9' target='_blank'>25.100952,121.854581</a>  ",
 		 	"description" : "本山地質公園，亦稱為金瓜石地質公園。位於原本山坑場，本山在過去稱為「大金瓜」。.....",
 		  	"img" : "img/geological_point/geological_point_4.jpg",
 
@@ -65,7 +65,7 @@
   		{
 		  	"id" : "05",
 		  	"name" : "樹梅景觀台",
-		  	"location" : "<a href='https://goo.gl/maps/Ttp5WAyfUWLHfWs9A'>25.1012295,121.8497029</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/Ttp5WAyfUWLHfWs9A' target='_blank'>25.1012295,121.8497029</a>  ",
 		 	"description" : "大樹梅坪觀景台位於新北市瑞芳區九份山區。位於102縣道海拔最高的路段上：約502公尺。.....",
 		  	"img" : "img/geological_point/geological_point_5.jpg",
 		  	
@@ -80,7 +80,7 @@
   		{
 		  	"id" : "06",
 		  	"name" : "本山礦場",
-		  	"location" : "<a href='https://goo.gl/maps/6TVsxd7wdfjYDSgo7'>25.1015013,121.8586014</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/6TVsxd7wdfjYDSgo7' target='_blank'>25.1015013,121.8586014</a> ",
 		 	"description" : "本山礦場位於金瓜石地質公園內，是金瓜石重要的金礦礦區。本山礦脈垂直分佈的範圍.....",
 		  	"img" : "img/geological_point/geological_point_6.jpg",
 		  	
@@ -95,7 +95,7 @@
   		{
 		  	"id" : "07",
 		  	"name" : "金瓜石神社遺址(黃金神社)",
-		  	"location" : "<a href='https://goo.gl/maps/5TWZm7ALPEibJPJH8'>25.1047818,121.8587527</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/5TWZm7ALPEibJPJH8' target='_blank'>25.1047818,121.8587527</a>  ",
 		 	"description" : "黃金神社，位於臺灣新北市瑞芳區金瓜石，臨近九份，又稱山神社。.....",
 		  	"img" : "img/geological_point/geological_point_7.jpg",
 		  	
@@ -110,7 +110,7 @@
   		{
 		  	"id" : "08",
 		  	"name" : "本山五坑",
-		  	"location" : "<a href='https://goo.gl/maps/w1GDHt8MKFZEvDvz8'>25.1064356,121.8594984</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/w1GDHt8MKFZEvDvz8' target='_blank'>25.1064356,121.8594984</a>  ",
 		 	"description" : "本山五坑，是本山礦業興盛時期的九座坑道之一，位於本山的山腰處，海拔約295公尺以上。.....",
 		  	"img" : "img/geological_point/geological_point_8.jpg",
 		  
@@ -125,7 +125,7 @@
   		{
 		  	"id" : "09",
 		  	"name" : "太子賓館",
-		  	"location" : "<a href='https://goo.gl/maps/Rmnns2KaF9cXyzTm9'>25.1080055,121.8582227</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/Rmnns2KaF9cXyzTm9' target='_blank'>25.1080055,121.8582227</a>  ",
 		 	"description" : "太子賓館位於黃金博物園區內，是一座台灣日治時期的建築。於1922年，由日本田中礦業株式會社修建.....",
 		  	"img" : "img/geological_point/geological_point_9.jpg",
 		  	
@@ -140,7 +140,7 @@
   		{
 		  	"id" : "10",
 		  	"name" : "黃金博物館遊客服務中心",
-		  	"location" : "<a href='https://goo.gl/maps/ARdzJefwk8vsr1C3A'>25.1082096,121.8566221</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/ARdzJefwk8vsr1C3A' target='_blank'>25.1082096,121.8566221</a>  ",
 		 	"description" : "新北市立黃金博物館，又名黃金博物園區、黃金博物館、黃金館。是由過去的金礦礦區轉型而成的博物館區。.....",
 		  	"img" : "img/geological_point/geological_point_10.jpg",
 		  	
@@ -171,7 +171,7 @@
   		{
 		  	"id" : "12",
 		  	"name" : "金瓜石醫院舊址廣場",
-		  	"location" : "<a href='https://goo.gl/maps/kNqpuTDuSspCihJaA'>25.1092505,121.8580289</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/kNqpuTDuSspCihJaA' target='_blank'>25.1092505,121.8580289</a>  ",
 		 	"description" : "金瓜石醫院當年為因應採礦人潮聚集的需求而開始，最初為日治時期，其中三大開採金礦組織之一的田中組.....",
 		  	"img" : "img/geological_point/geological_point_12.jpg",
 		  	
@@ -186,7 +186,7 @@
   		{
 		  	"id" : "13",
 		  	"name" : "祈堂老街",
-		  	"location" : "<a href='https://goo.gl/maps/bwCe82YQQsNKarQ9A'>25.1093717,121.858635</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/bwCe82YQQsNKarQ9A' target='_blank'>25.1093717,121.858635</a> ",
 		 	"description" : "祈堂老街位於具有百年歷史的「勸濟堂」下方。勸濟堂內供奉關聖帝君，是金瓜石地區的守護神。.....",
 		  	"img" : "img/geological_point/geological_point_13.jpg",
 		  	
@@ -201,7 +201,7 @@
   		{
 		  	"id" : "14",
 		  	"name" : "彩虹階梯",
-		  	"location" : "<a href='https://goo.gl/maps/BwwvHKmnPEJjepi17'>25.1096002,121.8592545</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/BwwvHKmnPEJjepi17' target='_blank'>25.1096002,121.8592545</a> ",
 		 	"description" : "從具有百年歷史的勸濟堂往下走，其中一條通往為過往商業中心的祈堂老街，若由另一側的階梯往下走，就可看到彩虹階梯，.....",
 		  	"img" : "img/geological_point/geological_point_14.jpg",
 		  	
@@ -216,7 +216,7 @@
   		{
 		  	"id" : "15",
 		  	"name" : "九份老街",
-		  	"location" : "<a href='https://goo.gl/maps/d7tXq2eukrpxgoHF6'>25.1097895,121.8451714</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/d7tXq2eukrpxgoHF6' target='_blank'>25.1097895,121.8451714</a> ",
 		 	"description" : "九份老街，位於新北市瑞芳區，主要範圍以聚集在基山街、豎崎路及輕便路等街道周遭，是台灣熱門觀光景點之一。.....",
 		  	"img" : "img/geological_point/geological_point_15.jpg",
 		  	
@@ -232,7 +232,7 @@
   		{
 		  	"id" : "16",
 		  	"name" : "勸濟堂",
-		  	"location" : "<a href='https://goo.gl/maps/Hz1M1tSCmGH84KKu7'>25.1100034,121.8595325</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/Hz1M1tSCmGH84KKu7' target='_blank'>25.1100034,121.8595325</a>  ",
 		 	"description" : "金瓜石勸濟堂，又稱為祈堂，具有百年的歷史，供奉關聖帝君的臺灣民間信仰廟宇，是金瓜石地區的守護神。.....",
 		  	"img" : "img/geological_point/geological_point_16.jpg",
 		  	
@@ -248,7 +248,7 @@
   		{
 		  	"id" : "17",
 		  	"name" : "台陽礦業事務所",
-		  	"location" : "<a href='https://goo.gl/maps/R7RrrEN76742ZfR5A'>25.1101394,121.8426485</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/R7RrrEN76742ZfR5A' target='_blank'>25.1101394,121.8426485</a>  ",
 		 	"description" : "台陽股份有限公司建造於西元1937年，為台陽礦業在九份的管理中心，並於2003年2月28日公告為歷史建築，.....",
 		  	"img" : "img/geological_point/geological_point_17.jpg",
 		  	
@@ -263,7 +263,7 @@
   		{
 		  	"id" : "18",
 		  	"name" : "終戰和平紀念公園",
-		  	"location" : "<a href='https://goo.gl/maps/PM6mkfwZou6cHTKb6'>25.1105313,121.8586277</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/PM6mkfwZou6cHTKb6' target='_blank'>25.1105313,121.8586277</a> ",
 		 	"description" : "國際終戰和平紀念園區原為1942年至1945年間日軍的金瓜石戰俘營，臺語發音稱作「督鼻仔寮」，原始的涵意就是「高鼻子的外國人住的營舍」。.....",
 		  	"img" : "img/geological_point/geological_point_18.jpg",
 		  	
@@ -293,7 +293,7 @@
   		{
 		  	"id" : "20",
 		  	"name" : "煙囪稜",
-		  	"location" : "<a href='https://goo.gl/maps/dNBzD6ooqopyB1fX6'>25.1112805,121.8635914</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/dNBzD6ooqopyB1fX6' target='_blank'>25.1112805,121.8635914</a>  ",
 		 	"description" : "有黃金二稜之稱的「煙囪稜」，是指在無耳茶壺山上，由朝天亭經廢棄排煙管至水湳山的稜線。.....",
 		  	"img" : "img/geological_point/geological_point_20.jpg",
 		  	
@@ -308,7 +308,7 @@
   		{
 		  	"id" : "21",
 		  	"name" : "雞籠山登山步道口",
-		  	"location" : "<a href='https://goo.gl/maps/dNBzD6ooqopyB1fX6'>25.111802,121.8452673</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/dNBzD6ooqopyB1fX6' target='_blank'>25.111802,121.8452673</a> ",
 		 	"description" : "基隆山是位於臺灣東北部的一座山嶽，行政區劃屬於新北市瑞芳區，標高588公尺。.....",
 		  	"img" : "img/geological_point/geological_point_21.jpg",
 		  	
@@ -323,7 +323,7 @@
   		{
 		  	"id" : "22",
 		  	"name" : "雞籠山登山步道山頂涼亭",
-		  	"location" : "<a href='https://goo.gl/maps/ytKATSuVSCKNdA787'>25.1190033,121.8491211</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/ytKATSuVSCKNdA787' target='_blank'>25.1190033,121.8491211</a> ",
 		 	"description" : "日治時期時，日本台灣總督府以通過基隆山頂之正南北稜線為界，劃分出金瓜石與九份地區的礦權，....",
 		  	"img" : "img/geological_point/geological_point_22.jpg",
 		  	
@@ -338,7 +338,7 @@
   		{
 		  	"id" : "23",
 		  	"name" : "基隆山",
-		  	"location" : "<a href='https://goo.gl/maps/XcCoVh3sMLwicVrB8'>25.1119366,121.8613195</a> ",
+		  	"location" : "<a href='https://goo.gl/maps/XcCoVh3sMLwicVrB8' target='_blank'>25.1119366,121.8613195</a> ",
 		 	"description" : "基隆山形貌多變，從海上正看山形似雞籠，故舊時稱為「雞籠山」.....",
 		  	"img" : "img/geological_point/geological_point_23.jpg",
 		  	
@@ -353,7 +353,7 @@
   		{
 		  	"id" : "24",
 		  	"name" : "浪漫公路觀景台",
-		  	"location" : "<a href='https://goo.gl/maps/2AHJXyJXFubR1AZP8'>25.1119464,121.8608682</a>",
+		  	"location" : "<a href='https://goo.gl/maps/2AHJXyJXFubR1AZP8' target='_blank'>25.1119464,121.8608682</a>",
 		 	"description" : "浪漫公路觀景台，可以遠望茶壺山與本山礦區。目前已被正式命名為山尖路，但在過去原為臺陽公司開拓出來的產業道路，.....",
 		  	"img" : "img/geological_point/geological_point_24.jpg",
 		  	
@@ -369,7 +369,7 @@
   		{
 		  	"id" : "25",
 		  	"name" : "朝日亭",
-		  	"location" : "<a href='https://goo.gl/maps/3tqyCJKo7E7v6BLn9'>25.1125784,121.859448</a>",
+		  	"location" : "<a href='https://goo.gl/maps/3tqyCJKo7E7v6BLn9' target='_blank'>25.1125784,121.859448</a>",
 		 	"description" : "朝日亭是位於勸濟堂正北方的一座涼亭，旅客開車或搭乘客運抵達勸濟堂後，.....",
 		  	"img" : "img/geological_point/geological_point_25.jpg",
 		  	
@@ -385,7 +385,7 @@
   		{
 		  	"id" : "26",
 		  	"name" : "六坑斜坡索道",
-		  	"location" : "<a href='https://goo.gl/maps/x594o3RmMUfGzjqt5'>25.1126013,121.8602566</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/x594o3RmMUfGzjqt5' target='_blank'>25.1126013,121.8602566</a>  ",
 		 	"description" : "六坑斜坡索道是昔日金瓜石礦區用來載運礦產的眾多台車索道之一。.....",
 		  	"img" : "img/geological_point/geological_point_26.jpg",
 		  	
@@ -401,7 +401,7 @@
   		{
 		  	"id" : "27",
 		  	"name" : "報時山觀景台",
-		  	"location" : "<a href='https://goo.gl/maps/pqX1H8qfdCfKc9Dt6'>25.1142921,121.859685</a>  ",
+		  	"location" : "<a href='https://goo.gl/maps/pqX1H8qfdCfKc9Dt6' target='_blank'>25.1142921,121.859685</a>  ",
 		 	"description" : "報時山又名水螺山，海拔260公尺，據傳在日治時代設有警報器定時鳴放因而得名。.....",
 		  	"img" : "img/geological_point/geological_point_27.jpg",
 		  	
