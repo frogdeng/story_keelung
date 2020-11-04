@@ -5,13 +5,13 @@
 		  	"id" : "01",
 		  	"name" : "大粗坑古道",
 		  	"location" : "<a href='https://goo.gl/maps/SRd2mPn8bSiUCtz19' target='_blank'>25.0994686,121.8479797</a>",
-		 	"description" : "大粗坑古道，主要是循著大粗坑溪的步道，以花崗岩石階為主。早期為猴硐通往九份與大粗坑的通聯道路。.....",
+		 	"description" : "台灣清治末期，大粗坑地區為一街庄，稱為「大粗坑庄」，隸屬於文山堡.....",
 		  	"img" : "img/geological_point/geological_point_1.jpg",
 
 		  	"link_a" : "<a href='stepping_mining.html?=map_1_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_1_02'> <i class='fas fa-play-circle'></i> 河底淘金 山上挖金。</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_1_03'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
-		  	"link_d" : "",
+		  	"link_d" : "<a href='stepping_mining.html?=map_1_04'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術。</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 64%; left: 28.5%"
@@ -26,7 +26,7 @@
 		  	"link_a" : "<a href='stepping_mining.html?=map_2_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_2_02'> <i class='fas fa-play-circle'></i> 河底淘金 山上挖金</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_2_03'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
-		  	"link_d" : "",
+		  	"link_d" : "<a href='stepping_mining.html?=map_2_04'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術。</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 63%; left: 23.5%"
@@ -42,7 +42,7 @@
 		  	"link_a" : "<a href='stepping_mining.html?=map_3_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_3_02'> <i class='fas fa-play-circle'></i> 名符其實黃金島：數百公噸的黃金開採。</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_3_03'> <i class='fas fa-play-circle'></i> 河底淘金 山上挖金。</a>",
-		  	"link_d" : "",
+		  	"link_d" : "<a href='stepping_mining.html?=map_3_04'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術。</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 4%; left: 13%"
@@ -87,7 +87,7 @@
 		  	"link_a" : "<a href='stepping_mining.html?=map_6_01'> <i class='fas fa-play-circle'></i> 名符其實黃金島：數百公噸的黃金開採。</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_6_02'> <i class='fas fa-play-circle'></i> 河底淘金 山上挖金。</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_6_03'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主。</a>",
-		  	"link_d" : "",
+		  	"link_d" : "<a href='stepping_mining.html?=map_6_04'> <i class='fas fa-play-circle'></i> 金瓜石溪上游的本山地質公園</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 59%; left: 55%"
@@ -104,6 +104,7 @@
 		  	"link_c" : "<a href='stepping_mining.html?=map_7_01'> <i class='fas fa-play-circle'></i> 你知道現在採到的金可能來自外來小行星嗎？</a>",
 		  	"link_d" : "<a href='stepping_mining.html?=map_7_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_e" : "<a href='stepping_mining.html?=map_7_01'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主</a>",
+		  	"link_f" : "<a href='stepping_mining.html?=map_7_01'> <i class='fas fa-play-circle'></i> 金瓜石的黃金神社與祈堂老街</a>",
 
 		  	"style" : "top: 54%; left: 59%"
   		},
@@ -117,7 +118,7 @@
 		  	"link_a" : "<a href='stepping_mining.html?=map_8_01'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (一)</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_8_02'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (二)</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_8_03'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
-		  	"link_d" : "",
+		  	"link_d" : "<a href='stepping_mining.html?=map_8_04'> <i class='fas fa-play-circle'></i> 金瓜石的黃金神社與祈堂老街</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 48%; left: 56.5%"
@@ -131,7 +132,7 @@
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_9_01'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_9_02'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主</a>",
-		  	"link_c" : "",
+		  	"link_c" : "<a href='stepping_mining.html?=map_9_03'> <i class='fas fa-play-circle'></i> 金瓜石的黃金神社與祈堂老街</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -141,12 +142,12 @@
 		  	"id" : "10",
 		  	"name" : "黃金博物館遊客服務中心",
 		  	"location" : "<a href='https://goo.gl/maps/ARdzJefwk8vsr1C3A' target='_blank'>25.1082096,121.8566221</a>  ",
-		 	"description" : "新北市立黃金博物館，又名黃金博物園區、黃金博物館、黃金館。是由過去的金礦礦區轉型而成的博物館區。.....",
+		 	"description" : "在黃金博物園區裡，不只有博物館，還有坑道體驗、神社遺址、四連棟日式宿舍、太子賓館.....",
 		  	"img" : "img/geological_point/geological_point_10.jpg",
 		  	
-		  	"link_a" : "<a href='stepping_mining.html?=map_10_01'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
-		  	"link_b" : "",
-		  	"link_c" : "",
+		  	"link_a" : "<a href='stepping_mining.html?=map_10_01'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_10_02'> <i class='fas fa-play-circle'></i> 金瓜石的黃金神社與祈堂老街</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_10_03'> <i class='fas fa-play-circle'></i> 礦石是什麼？如何分辨真金與愚人金？</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -176,8 +177,8 @@
 		  	"img" : "img/geological_point/geological_point_12.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_12_01'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
-		  	"link_b" : "<a href='stepping_mining.html?=map_12_02'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
-		  	"link_c" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_12_02'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_12_03'> <i class='fas fa-play-circle'></i> 探秘金瓜石本山礦區1-9坑</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -187,11 +188,11 @@
 		  	"id" : "13",
 		  	"name" : "祈堂老街",
 		  	"location" : "<a href='https://goo.gl/maps/bwCe82YQQsNKarQ9A' target='_blank'>25.1093717,121.858635</a> ",
-		 	"description" : "祈堂老街位於具有百年歷史的「勸濟堂」下方。勸濟堂內供奉關聖帝君，是金瓜石地區的守護神。.....",
+		 	"description" : "位於勸濟堂下方的祈堂路上，隸屬於金瓜石地區的銅山里，為早期礦工生活的商業買賣中心.....",
 		  	"img" : "img/geological_point/geological_point_13.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_13_01'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
-		  	"link_b" : "<a href='stepping_mining.html?=map_13_02'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_13_02'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦日子</a>",
 		  	"link_c" : "",
 		  	"link_d" : "",
 		  	"link_e" : "",
@@ -206,8 +207,8 @@
 		  	"img" : "img/geological_point/geological_point_14.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_14_01'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
-		  	"link_b" : "<a href='stepping_mining.html?=map_14_02'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術 </a>",
-		  	"link_c" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_14_02'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦 </a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_14_02'> <i class='fas fa-play-circle'></i> 金瓜石的黃金神社與祈堂老街 </a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -223,7 +224,7 @@
 		  	"link_a" : "<a href='stepping_mining.html?=map_15_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_15_02'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
 		  	"link_c" : "<a href='stepping_mining.html?=map_15_03'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主</a>",
-		  	"link_d" : "<a href='stepping_mining.html?=map_15_04'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
+		  	"link_d" : "<a href='stepping_mining.html?=map_15_04'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
 		  	"link_e" : "",
 
 
@@ -233,12 +234,12 @@
 		  	"id" : "16",
 		  	"name" : "勸濟堂",
 		  	"location" : "<a href='https://goo.gl/maps/Hz1M1tSCmGH84KKu7' target='_blank'>25.1100034,121.8595325</a>  ",
-		 	"description" : "金瓜石勸濟堂，又稱為祈堂，具有百年的歷史，供奉關聖帝君的臺灣民間信仰廟宇，是金瓜石地區的守護神。.....",
+		 	"description" : "有百年歷史的「勸濟堂」供奉關聖帝君，是金瓜石地區的守護神。.....",
 		  	"img" : "img/geological_point/geological_point_16.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_16_01'> <i class='fas fa-play-circle'></i> 山中的奢華小上海</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_16_02'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主</a>",
-		  	"link_c" : "<a href='stepping_mining.html?=map_16_03'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_16_03'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -249,7 +250,7 @@
 		  	"id" : "17",
 		  	"name" : "台陽礦業事務所",
 		  	"location" : "<a href='https://goo.gl/maps/R7RrrEN76742ZfR5A' target='_blank'>25.1101394,121.8426485</a>  ",
-		 	"description" : "台陽股份有限公司建造於西元1937年，為台陽礦業在九份的管理中心，並於2003年2月28日公告為歷史建築，.....",
+		 	"description" : "1895年日本統治台灣後，台灣的民營礦業全部被日本當局徵收.....",
 		  	"img" : "img/geological_point/geological_point_17.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_17_01'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (一)</a>",
@@ -264,11 +265,11 @@
 		  	"id" : "18",
 		  	"name" : "終戰和平紀念公園",
 		  	"location" : "<a href='https://goo.gl/maps/PM6mkfwZou6cHTKb6' target='_blank'>25.1105313,121.8586277</a> ",
-		 	"description" : "國際終戰和平紀念園區原為1942年至1945年間日軍的金瓜石戰俘營，臺語發音稱作「督鼻仔寮」，原始的涵意就是「高鼻子的外國人住的營舍」。.....",
+		 	"description" : "國際終戰和平紀念園區原為1942年至1945年間日軍的金瓜石戰俘營，臺語發音稱作「督鼻仔寮」.....",
 		  	"img" : "img/geological_point/geological_point_18.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_18_01'> <i class='fas fa-play-circle'></i> 戰俘紀念碑</a>",
-		  	"link_b" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_18_02'> <i class='fas fa-play-circle'></i> 探秘金瓜石本山礦區1-9坑</a>",
 		  	"link_c" : "",
 		  	"link_d" : "",
 		  	"link_e" : "",
@@ -279,12 +280,12 @@
 		  	"id" : "19",
 		  	"name" : "臺金濂洞煉銅廠煙道",
 		  	"location" : "<a href='XXXX'>25.1105325,121.8623471</a>",
-		 	"description" : "瑞芳區臺金濂洞煉銅廠煙道，位於水湳洞選煉廠的東南坡上，有三條盤繞的黑色水泥管，連接到山後方，成為金瓜石當地特殊的景觀之一。.....",
+		 	"description" : "水湳洞選煉廠的東南坡上，有三條盤繞山巒，宛如巨龍般俯行於山間的三條黑色水泥管，沿著山勢，連接到山後方。.....",
 		  	"img" : "img/geological_point/geological_point_19.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_19_01'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (一)</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_19_02'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (二)</a>",
-		  	"link_c" : "",
+		  	"link_c" : "<a href='stepping_mining.html?=map_19_03'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -298,7 +299,7 @@
 		  	"img" : "img/geological_point/geological_point_20.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_20_01'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
-		  	"link_b" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_20_02'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
 		  	"link_c" : "",
 		  	"link_d" : "",
 		  	"link_e" : "",
@@ -309,7 +310,7 @@
 		  	"id" : "21",
 		  	"name" : "雞籠山登山步道口",
 		  	"location" : "<a href='https://goo.gl/maps/dNBzD6ooqopyB1fX6' target='_blank'>25.111802,121.8452673</a> ",
-		 	"description" : "基隆山是位於臺灣東北部的一座山嶽，行政區劃屬於新北市瑞芳區，標高588公尺。.....",
+		 	"description" : "基隆山除因外形似雞籠而被稱作雞籠山外，又因由九份福山宮望去，像一臥躺的大肚美女.....",
 		  	"img" : "img/geological_point/geological_point_21.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_21_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
@@ -324,7 +325,7 @@
 		  	"id" : "22",
 		  	"name" : "雞籠山登山步道山頂涼亭",
 		  	"location" : "<a href='https://goo.gl/maps/ytKATSuVSCKNdA787' target='_blank'>25.1190033,121.8491211</a> ",
-		 	"description" : "日治時期時，日本台灣總督府以通過基隆山頂之正南北稜線為界，劃分出金瓜石與九份地區的礦權，....",
+		 	"description" : "基隆山位於久粉與金瓜石的界山，登山口位於九份的舊鐵道與隔頂站之間....",
 		  	"img" : "img/geological_point/geological_point_22.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_22_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
@@ -339,7 +340,7 @@
 		  	"id" : "23",
 		  	"name" : "基隆山",
 		  	"location" : "<a href='https://goo.gl/maps/XcCoVh3sMLwicVrB8' target='_blank'>25.1119366,121.8613195</a> ",
-		 	"description" : "基隆山形貌多變，從海上正看山形似雞籠，故舊時稱為「雞籠山」.....",
+		 	"description" : "原名為「雞籠山」，山高海拔588公尺，為九份與金瓜石分界線.....",
 		  	"img" : "img/geological_point/geological_point_23.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_23_01'> <i class='fas fa-play-circle'></i> 百萬年的黃金舞台—水金九的地質故事 (一)</a>",
@@ -359,8 +360,8 @@
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_24_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
 		  	"link_b" : "<a href='stepping_mining.html?=map_24_02'> <i class='fas fa-play-circle'></i> 三大金礦，二方霸主</a>",
-		  	"link_c" : "<a href='stepping_mining.html?=map_24_03'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
-		  	"link_d" : "",
+		  	"link_c" : "<a href='stepping_mining.html?=map_24_03'> <i class='fas fa-play-circle'></i> 黑天暗地的挖礦</a>",
+		  	"link_d" : "<a href='stepping_mining.html?=map_24_04'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
 		  	"link_e" : "",
 
 		  	"style" : "top: 30%; left: 63%"
@@ -370,12 +371,12 @@
 		  	"id" : "25",
 		  	"name" : "朝日亭",
 		  	"location" : "<a href='https://goo.gl/maps/3tqyCJKo7E7v6BLn9' target='_blank'>25.1125784,121.859448</a>",
-		 	"description" : "朝日亭是位於勸濟堂正北方的一座涼亭，旅客開車或搭乘客運抵達勸濟堂後，.....",
+		 	"description" : "朝日亭是位於勸濟堂正北方的一座涼亭，旅客開車或搭乘客運抵達勸濟堂後.....",
 		  	"img" : "img/geological_point/geological_point_25.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_25_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
-		  	"link_b" : "",
-		  	"link_c" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_25_02'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_25_03'> <i class='fas fa-play-circle'></i> 茶壺山</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
@@ -386,7 +387,7 @@
 		  	"id" : "26",
 		  	"name" : "六坑斜坡索道",
 		  	"location" : "<a href='https://goo.gl/maps/x594o3RmMUfGzjqt5' target='_blank'>25.1126013,121.8602566</a>  ",
-		 	"description" : "六坑斜坡索道是昔日金瓜石礦區用來載運礦產的眾多台車索道之一。.....",
+		 	"description" : "當年金瓜石礦區為了因應地形而設置各種運輸工具， 包括輕便台車道、空中索道、斜坡索道等設施.....",
 		  	"img" : "img/geological_point/geological_point_26.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_26_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
@@ -406,14 +407,259 @@
 		  	"img" : "img/geological_point/geological_point_27.jpg",
 		  	
 		  	"link_a" : "<a href='stepping_mining.html?=map_27_01'> <i class='fas fa-play-circle'></i> 金瓜石-九份地區為何有那麼多黃金？</a>",
-		  	"link_b" : "",
-		  	"link_c" : "",
+		  	"link_b" : "<a href='stepping_mining.html?=map_27_02'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_27_03'> <i class='fas fa-play-circle'></i> 陰陽海</a>",
+		  	"link_d" : "<a href='stepping_mining.html?=map_27_04'> <i class='fas fa-play-circle'></i> 茶壺山</a>",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 28%; left: 61.5%"
+  		},
+
+
+
+
+
+
+
+
+
+  		{
+		  	"id" : "28",
+		  	"name" : "無敵海景步道",
+		  	"location" : "<a href='https://goo.gl/maps/FooLjkT3W4dkztiS8' target='_blank'>25.1018068,121.8603209</a>  ",
+		 	"description" : "無敵海景步道為本山礦場往草山方向的階梯步道.....",
+		  	"img" : "img/geological_point/geological_point_28.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_28_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_28_02'> <i class='fas fa-play-circle'></i> 茶壺山</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_28_03'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 59%; left: 60%"
+  		},
+  		{
+		  	"id" : "29",
+		  	"name" : "黃金瀑布",
+		  	"location" : "<a href='https://goo.gl/maps/YpRX6njKX2Hemx4U8' target='_blank'>25.117278, 121.861389</a>  ",
+		 	"description" : "黃金瀑布的水並非全部來自地表溪流，而是來自坑道的地下水湧出地面而形成.....",
+		  	"img" : "img/geological_point/geological_point_29.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_29_01'> <i class='fas fa-play-circle'></i> 黃金瀑布</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_29_02'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_29_03'> <i class='fas fa-play-circle'></i> 陰陽海</a>",
 		  	"link_d" : "",
 		  	"link_e" : "",
 
 
 		  	"style" : "top: 28%; left: 59%"
+  		},
+  		{
+		  	"id" : "30",
+		  	"name" : "長仁三坑坑口通風管",
+		  	"location" : "<a href='https://goo.gl/maps/LLHf4QHcFnJoU6pn6' target='_blank'>25.119658,121.8620192</a>  ",
+		 	"description" : "長仁三坑坑口通風管位於水湳洞選煉廠的東南坡上，此排煙道是過去為了將煉銅時所產生的毒廢氣排放到後山無人之處而建設.....",
+		  	"img" : "img/geological_point/geological_point_30.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_30_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_30_02'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_30_03'> <i class='fas fa-play-circle'></i> 探秘金瓜石本山礦區1-9坑</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 22%; left: 61.5%"
+  		},
+  		{
+		  	"id" : "31",
+		  	"name" : "水湳洞選煉廠",
+		  	"location" : "<a href='https://goo.gl/maps/871mRLuCqYE5VQHv7 target='_blank'>25.1115639,121.8616765</a>  ",
+		 	"description" : "此處可眺望水湳洞選煉廠。水湳洞選煉廠本名為台金公司濂洞煉銅廠，暱稱十三層.....",
+		  	"img" : "img/geological_point/geological_point_31.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_31_01'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_31_02'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 36.5%; left: 64%"
+  		},
+  		{
+		  	"id" : "32",
+		  	"name" : "水湳洞選煉廠遺址",
+		  	"location" : "<a href='https://goo.gl/maps/UrW4sik4DYWWhiLo6' target='_blank'>25.1184807,121.8647308</a>  ",
+		 	"description" : "台金舊礦廠又被暱稱為十三層，遠遠望過去很像荒廢的天空之城.....",
+		  	"img" : "img/geological_point/geological_point_32.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_32_01'> <i class='fas fa-play-circle'></i> 礦石是什麼？如何分辨真金與愚人金？</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_32_01'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 18%; left: 71%"
+  		},
+  		{
+		  	"id" : "33",
+		  	"name" : "濂洞國",
+		  	"location" : "<a href='https://goo.gl/maps/a573689vsniSr5bp9' target='_blank'>25.1219224,121.8604833</a>  ",
+		 	"description" : "濂洞國小位於瑞芳區，擁有居高臨下的地理優勢以及美麗的海景.....",
+		  	"img" : "img/geological_point/geological_point_33.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_33_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_33_02'> <i class='fas fa-play-circle'></i> 陰陽海</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 11%; left: 61%"
+  		},
+  		{
+		  	"id" : "34",
+		  	"name" : "水湳洞旅遊服務中心",
+		  	"location" : "<a href='https://goo.gl/maps/HhQqbHZAnB2Ng2DfA' target='_blank'>25.122478,121.861187</a>  ",
+		 	"description" : "水湳洞旅遊服務中心及展演藝廊，是由台電閒置的舊禮堂所改建.....",
+		  	"img" : "img/geological_point/geological_point_34.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_34_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_34_02'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_34_03'> <i class='fas fa-play-circle'></i> 探秘金瓜石本山礦區1-9坑</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 11%; left: 64.5%"
+  		},
+  		{
+		  	"id" : "35",
+		  	"name" : "山城美館",
+		  	"location" : "<a href='https://goo.gl/maps/dmZ1dXUrjUFXZNdk7' target='_blank'>25.122375, 121.861372</a>  ",
+		 	"description" : "山城美館正式名稱是「山城美館展演藝廊」.....",
+		  	"img" : "img/geological_point/geological_point_35.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_35_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_35_01'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_35_01'> <i class='fas fa-play-circle'></i> 探秘金瓜石本山礦區1-9坑</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 8.5%; left: 62.5%"
+  		},
+  		{
+		  	"id" : "36",
+		  	"name" : "舊台鐵深澳線水湳洞車站址",
+		  	"location" : "<a href='https://goo.gl/maps/93592TuCMFdwQHdFA' target='_blank'>25.1221775,121.8636635</a>  ",
+		 	"description" : "水湳洞停車場旁，也是舊台鐵深澳線水湳洞車站現址，鄰近台2線北部濱海公路.....",
+		  	"img" : "img/geological_point/geological_point_36.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_36_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_36_02'> <i class='fas fa-play-circle'></i> 黃金瀑布</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_36_03'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_d" : "<a href='stepping_mining.html?=map_36_04'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 10%; left: 69%"
+  		},
+  		{
+		  	"id" : "37",
+		  	"name" : "水湳洞漁港",
+		  	"location" : "<a href='https://goo.gl/maps/J6fC3m9CQNVP948M6' target='_blank'>25.1233377,121.8668021</a>  ",
+		 	"description" : "水湳洞漁港位於台2線濱海公路旁，與對面的十三層遺址及長仁社區相望.....",
+		  	"img" : "img/geological_point/geological_point_37.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_37_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_37_02'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_37_03'> <i class='fas fa-play-circle'></i> 陰陽海</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 7%; left: 77%"
+  		},
+  		{
+		  	"id" : "38",
+		  	"name" : "員子山分洪道",
+		  	"location" : "<a href='https://goo.gl/maps/8G11ExrEBkdSUXxy8' target='_blank'>25.1074558,121.8298142</a>  ",
+		 	"description" : "員山仔分洪道是位於臺灣新北市瑞芳區的分洪水道，以隧道方式銜接基隆河瑞芳河段與東海.....",
+		  	"img" : "img/geological_point/geological_point_38.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_38_01'> <i class='fas fa-play-circle'></i> 礦石煉成金，功夫煉金術。</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_38_02'> <i class='fas fa-play-circle'></i> 基隆河系與員山子分洪道(</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 51.5%; left: 18.5%"
+  		},
+  		{
+		  	"id" : "39",
+		  	"name" : "展望台",
+		  	"location" : "<a href='https://goo.gl/maps/FDewpLobVRdtTrsQ7' target='_blank'>25.1235185,121.8614474</a>  ",
+		 	"description" : "東北海岸線上的水湳洞展望台.....",
+		  	"img" : "img/geological_point/geological_point_39.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_39_01'> <i class='fas fa-play-circle'></i> 礦場遺跡：長仁礦坑</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_39_02'> <i class='fas fa-play-circle'></i> 金龍擺尾吐霧</a>",
+		  	"link_c" : "<a href='stepping_mining.html?=map_39_03'> <i class='fas fa-play-circle'></i> 陰陽海</a>",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 5%; left: 63.5%"
+  		},
+  		{
+		  	"id" : "40",
+		  	"name" : "無耳茶壺山山峰步道入口-觀景台",
+		  	"location" : "<a href='https://goo.gl/maps/WWNQEGkV1xbXVA219' target='_blank'>25.1079488,121.8658152</a>  ",
+		 	"description" : "茶壺山又名無耳茶壺山，從金瓜石往山頂望去，山頂造型像是沒有把手的茶壺，故有其名.....",
+		  	"img" : "img/geological_point/geological_point_40.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_40_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_40_02'> <i class='fas fa-play-circle'></i> 茶壺山</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 44%; left: 74%"
+  		},
+  		{
+		  	"id" : "41",
+		  	"name" : "無耳茶壺山登山步道-寶獅亭",
+		  	"location" : "<a href='https://goo.gl/maps/pYA5BMBkhKwC7heq5' target='_blank'>25.1072998,121.8653259</a>  ",
+		 	"description" : "寶獅亭是無耳茶壺山步道上的休息涼亭.....",
+		  	"img" : "img/geological_point/geological_point_41.jpg",
+		  	
+		  	"link_a" : "<a href='stepping_mining.html?=map_41_01'> <i class='fas fa-play-circle'></i> 水湳洞山色海景一次飽覽(</a>",
+		  	"link_b" : "<a href='stepping_mining.html?=map_41_01'> <i class='fas fa-play-circle'></i> 茶壺山</a>",
+		  	"link_c" : "",
+		  	"link_d" : "",
+		  	"link_e" : "",
+
+
+		  	"style" : "top: 46%; left: 70%"
   		}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
